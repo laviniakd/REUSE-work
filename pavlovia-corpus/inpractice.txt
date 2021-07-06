@@ -1,0 +1,268 @@
+﻿* 32760, running
+      * html-keyboard-response: 3
+      * Image-button-response: 1
+      * Image-keyboard-response: 1
+      * Survey-html-form: 1
+      * Html-button-response: 1
+* 6594, over (?)
+      * html-keyboard-response: 3
+      * Survey-html-form: 1
+      * Html-button-response: 5
+* 6154, running
+      * external-html: 1
+      * Survey-text: 5
+      * Html-button-response: 55
+      * Survey-multi-choice: 4
+      * Html-keyboard-response: 3
+* 7330, over
+      * html-keyboard-response: 2
+      * call-function: 3
+      * instructions: 5
+      * Survey-text: 3
+      * Survey-multi-choice: 4
+* 42994, running
+      * html-keyboard-response: 4
+      * html-button-response: 2
+      * Survey-html-form: 1
+* 7110, over
+      * html-keyboard-response: 2
+      * Survey-likert: 47
+      * Survey-multi-choice: 3
+* 11537, running
+      * External-html: 1
+      * Survey-text: 1
+      * Html-button-response: 16
+      * Html-keyboard-response: 1
+* 29974, over
+      * Html-keyboard-response: 14
+      * image-keyboard-response: 1
+      * Fullscreen: 2
+      * Survey-multi-choice: 1
+      * Survey-text: 2
+* 42075, running
+      * Html-keyboard-response: 10
+      * Html-button-response: 2
+      * Survey-html-form: 1
+* 42234, running
+      * Html-keyboard-response: 8
+      * Survey-html-form: 1
+      * Html-button-response: 3
+* 44406, running
+      * Html-keyboard-response: 27
+      * Instructions: 2
+      * Html-button-response: 1
+      * Survey-multi-choice: 1
+      * Survey-html-form: 1
+* 12983, running
+      * external-html: 1
+      * survey-text: 5
+      * survey-multi-choice: 4
+      * html-button-response: 7
+      * Audio-button-response: 49
+      * Html-keyboard-response: 3
+* 43148, over
+      * Html-keyboard-response: 8
+      * free-sort-v4-backround-bw-2: 4
+      * call-function: 3
+* 47485, running
+      * Html-keyboard-response: 4
+      * fullscreen: 2
+      * html-button-response: 7
+      * Survey-text: 3
+* 45671, running
+      * Html-keyboard-response: 14
+      * Dashed-sentence: 11
+      * Survey-html-form: 1
+      * Survey-multi-choice: 4
+      * Survey-text: 2
+      * Html-slider-response: 6
+* 21071, over
+      * Html-keyboard-response: 2
+      * Fullscreen: 2
+      * Html-button-response: 13
+      * Survey-multi-choice: 7
+      * External-html: 1
+      * Survey-text: 4
+* 39348, over
+      * Html-button-response: 5
+      * Html-keyboard-response: 1
+      * Image-keyboard-response: 2
+      * Survey-multi-choice: 2
+      * Survey-multi-select: 1
+      * Survey-likert: 4
+      * Survey-text: 1
+* 34339, running
+      * Instructions: 3
+      * Image-keyboard-response: 2
+      * Survey-text: 1
+      * Call-function: 1
+* 14395, over
+      * Html-keyboard-response: 4
+      * Html-button-response: 1
+* 21406, over
+      * Html-keyboard-response: 7
+      * Survey-text: 2
+      * Survey-multi-choice: 5
+      * Audio-keyboard-response: 3
+* 11156, over
+      * Html-button-response: 2
+      * Fullscreen: 2
+      * Survey-text: 4
+      * Survey-likert: 5
+      * Survey-multi-choice: 1
+* 19036, over
+      * Html-keyboard-response: 3
+      * Html-button-response: 9
+      * Fullscreen: 2
+      * Survey-text: 2
+* 35469, over
+      * External-html: 1
+      * Html-keyboard-response: 1
+      * Kool-2step-stake-stim: 5
+      * Kool-2step-stake-alien-stim: 2
+      * Kool-2step-stake-rocket-stim: 1
+      * Kool-2step-stake-test-stim: 1
+      * Survey-text: 1
+      * Instructions: 7
+      * Call-function: 4
+* 136397, running
+      * Instructions: 1
+      * Html-button-response: 2
+      * Canvas-button-response: 14
+* 87352, over
+      * Html-button-response: 1
+      * Html-keyboard-response: 11
+      * Fullscreen: 2
+      * Call-function: 2
+* 89264, over
+      * html-button-response: 7
+      * Html-keyboard-response: 7
+      * Fullscreen: 2
+      * Call-function: 2
+* 116578, running
+      * Html-button-response: 4
+      * Html-keyboard-response: 4
+      * Fullscreen: 2
+      * Call-function: 2
+* 145499, running
+      * instructions: 3
+      * html-keyboard-response: 5
+      * Survey-text(-beta-6.1): 2
+      * Survey-multi-choice: 1
+      * Call-function: 1
+      * Fullscreen: 2
+* 66294, running
+      * Html-keyboard-response: 26
+* 85194, over
+      * Html-button-response: 3
+      * Fullscreen: 2
+      * Call-function: 2
+      * Html-keyboard-response: 9
+* 99598, over
+      * Html-keyboard-response: 4
+      * Image-keyboard-response: 2
+* 56659, over
+      * Html-button-response: 5
+      * Call-function: 4
+      * Fullscreen: 2
+      * Survey-html-form: 1
+      * Html-keyboard-response: 8
+      * Video-keyboard-response: 4
+      * Survey-multi-select: 1
+* 34464, over
+      * Attention-check: 1
+      * Poldrack-instructions: 1
+      * Poldrack-text: 4
+      * Poldrack-single-stim: 2
+      * Poldrack-multi-stim-multi-response: 2
+      * Survey-text: 1
+* 44293, running
+      * Html-keyboard-response: 4
+      * Free-sort-v4: 1
+      * Call-function: 2
+* 50118, over
+      * Html-keyboard-response: 3
+* 86033, over
+      * Html-keyboard-response: 6
+      * Image-keyboard-response: 1
+      * Fullscreen: 2
+      * Survey-multi-choice: 1
+      * Survey-text: 3
+* 26100, over
+      * Html-keyboard-response: 2
+      * Fullscreen: 2
+      * Html-button-response: 14
+      * Survey-multi-choice: 7
+      * External-html: 1
+      * Survey-text: 3
+* 117897, over
+      * Html-keyboard-response: 6
+      * Fullscreen: 2
+      * Survey-html-form: 1
+      * Html-button-response: 1
+      * Instructions: 5
+      * Psychophysics: 3
+      * Image-keyboard-response-plus: 2
+      * Survey-multi-choice: 4
+* 125794, running
+      * Audio-keyboard-response: 3
+* 11586, running
+      * External-html: 1
+      * Survey-text: 2
+      * Html-button-response: 24
+      * Html-keyboard-response: 10
+      * Audio-keyboard-response: 7
+* 45627, running
+      * Html-keyboard-response: 6
+      * Fullscreen: 1
+* 52693, running
+      * Html-keyboard-response: 11
+      * Audio-keyboard-response: 2
+      * Audio-button-response: 3
+      * Video-keyboard-response: 1
+      * Vsl-grid-scene: 2
+* 44292, running
+      * Html-keyboard-response: 8
+      * Free-sort-v4-backround-bw-2: 4
+      * Call-function: 3
+* 51478, running
+      * Rsvp-sequence: 3
+      * Fullscreen: 2
+      * Image-keyboard-response: 1
+      * Html-keyboard-response: 10
+      * Categorize-image: 1
+      * Instructions: 3
+      * Html-button-response: 5
+      * Demographic-response: 1
+      * Survey-multi-choice: 1
+      * Survey-text: 4
+      * Survey-likert: 10
+* 13029, over
+      * Html-keyboard-response: 19
+      * Html-button-response: 2
+      * Survey-text: 4
+      * Audio-keyboard-response: 6
+      * Audio-button-response: 1
+* 27826, over (?)
+      * Poldrack-text: 4
+      * Survey-text: 1
+      * Poldrack-instructions: 1
+      * Single-stim-button: 4
+      * Poldrack-single-stim: 1
+* 101769, running
+      * Fullscreen: 1
+      * Html-keyboard-response: 5
+* 42580, running
+      * Html-keyboard-response: 10
+      * Html-button-response: 2
+      * Survey-html-form: 1
+* 99720, running
+      * Html-keyboard-response: 7
+      * Html-button-response: 3
+      * Image-keyboard-response: 1
+      * Audio-button-response: 3
+      * Instructions: 1
+* 123335, running
+      * Call-function: 2
+      * Survey-text: 1
+      * Survey-multi-choice: 1
